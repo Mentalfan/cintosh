@@ -18,4 +18,4 @@ Cintosh Chatbot is a simple web-based chatbot application designed to assist use
 To run the Cintosh Chatbot locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Tosh-project/cintosh.git
+   https://github.com/Tosh-project/cintosh.git
