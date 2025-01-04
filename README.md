@@ -17,5 +17,4 @@ Cintosh Chatbot is an AI-driven conversational agent designed to assist users wi
 ## Installation
 To run the Cintosh Chatbot locally, follow these steps:
 1. Clone the repository:
-   ```bash
-https://github.com/Tosh-project/cintosh.git
+   ```bash https://github.com/Tosh-project/cintosh.git
